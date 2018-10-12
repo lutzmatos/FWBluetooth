@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_btn_verificar">Ola, que tal</string>
+    <string name="txt_btn_pareados">Asta la vista, baby!</string>
+    <string name="txt_btn_buscar">Arriba, arriba</string>
+    <string name="txt_btn_visivel">La barca</string>
+    <string name="txt_btn_servidor">Hernam Rodriguez</string>
+    <string name="txt_btn_enviar">Lionel Messi</string>
+    <string name="app_name">FW Bluetooth</string>
+    <string name="txt_btn_operacoes_matematicas">Despacito</string>
+</resources>

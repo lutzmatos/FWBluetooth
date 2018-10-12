@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">FW Bluetooth</string>
+    <string name="txt_btn_verificar">Verificar e Ativar Bluetooth</string>
+    <string name="txt_btn_pareados">Listar dispositivos pareados</string>
+    <string name="txt_btn_buscar">Buscar dispositivos</string>
+    <string name="txt_btn_visivel">Tornar dispositivo visível</string>
+    <string name="txt_btn_servidor">Iniciar servidor de Chat</string>
+    <string name="txt_btn_operacoes_matematicas">Operaçoes matemáticas</string>
+
+    <string name="txt_btn_enviar">Enviar</string>
+</resources>

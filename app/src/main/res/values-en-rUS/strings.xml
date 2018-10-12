@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_btn_verificar">Verify and Activate Bluetooth</string>
+    <string name="txt_btn_pareados">Get list of devices pareate</string>
+    <string name="txt_btn_buscar">Get list of devices available</string>
+    <string name="txt_btn_visivel">Turn device visible</string>
+    <string name="txt_btn_servidor">Start server chat</string>
+    <string name="txt_btn_enviar">Send</string>
+    <string name="app_name">FW Bluetooth</string>
+    <string name="txt_btn_operacoes_matematicas">Math operations</string>
+</resources>

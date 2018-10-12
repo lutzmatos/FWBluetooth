@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:theme="@style/FWBluetooth2"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:text="@string/txt_btn_verificar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnVerificar" />
+
+    <Button
+        android:text="@string/txt_btn_pareados"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnPareados" />
+
+    <Button
+        android:text="@string/txt_btn_buscar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnBuscarDispositivo" />
+
+    <Button
+        android:text="@string/txt_btn_visivel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnVisivel" />
+
+    <Button
+        android:text="@string/txt_btn_servidor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnIniciarServidor" />
+
+    <Button
+        android:text="@string/txt_btn_operacoes_matematicas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnOperacoesMatematicas" />
+
+</LinearLayout>
